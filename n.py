@@ -1,2 +1,2 @@
 print("bye bye")
-jninig
+print(jninig")
